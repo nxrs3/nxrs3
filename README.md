@@ -1,5 +1,5 @@
 # 💫 About Me:
-🐍 Started coding (in python) in may, 2025<br>🔭 Currently working on my first major project | https://github.com/nxrs3/nxrsecrypt<br>🌱 Learning Rust & C<br>🇦 Arch Linux user
+🐍 Started coding (in python) in may, 2025<br>🇦 Arch Linux user
 
 
 # 💻 Tech Stack:
