@@ -1,5 +1,5 @@
 # 💫 About Me:
-🐍 Started coding (in python) in may, 2025<br>🇦 Arch Linux user
+🐍 Started coding (in python) in may, 2025<br>🇦 Arch Linux user<br> 💿 Working on a currently unreleased Linux ISO flasher + downloader TUI app
 
 
 # 💻 Tech Stack:
