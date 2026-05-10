@@ -1,5 +1,5 @@
 # 💫 About Me:
-🐍 Started coding (in python) in may, 2025<br>🇦 Arch Linux user
+🐍🦀 Python & Rust coder<br>📆 Started coding in may, 2025<br>🇦 Arch Linux user
 
 
 # 💻 Tech Stack:
