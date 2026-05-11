@@ -1,5 +1,19 @@
 # 💫 About Me:
-🐍🦀 Python & Rust coder<br>📆 Started coding in may, 2025<br>🇦 Arch Linux user
+🐍🦀 Python & Rust programmer\
+📆 Started coding in may, 2025\
+🇦 Arch Linux user
+
+## 🔗 Links:
+🔫 https://guns.lol/nxrse
+
+## ℹ️ Info
+
+I've been taking a break from coding, but a new project is in the works.
+
+I've privatized all my repos, because they honestly weren't worth showing off.\
+If you for some odd reason really want the nxrseCrypt or nxrseDB source code;\
+contact nxrs3@proton.me
+
 
 
 # 💻 Tech Stack:
