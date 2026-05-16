@@ -8,7 +8,7 @@
 
 ## ℹ️ Info
 
-I've been taking a break from coding, but a new project is in the works.
+I've been taking a break from coding, but a few new projects are in the works.
 
 Also, I've privatized all my repos, because they honestly weren't worth showing off.\
 If you for some odd reason really want the nxrseCrypt or nxrseDB source code;\
