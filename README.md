@@ -4,7 +4,7 @@
 🇦 Arch Linux user
 
 ## 🔗 Links:
-🔫 https://guns.lol/nxrse
+https://guns.lol/nxrse
 
 ## ℹ️ Info
 
