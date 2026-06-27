@@ -10,7 +10,7 @@ https://guns.lol/nxrse
 
 I've been taking a break from coding, but a few new projects are in the works.
 
-Also, I've privatized most of my repos, because they honestly weren't worth showing off.\
+Also, I've privatized most of my repos, because they honestly weren't any good.\
 If you for some odd reason really want the nxrseCrypt or nxrseDB source code;\
 contact nxrs3@proton.me
 
