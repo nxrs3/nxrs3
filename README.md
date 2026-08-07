@@ -8,7 +8,7 @@ https://guns.lol/nxrse
 
 ## ℹ️ Info
 
-I've been taking a break from coding, but a few new projects are in the works.
+Currently working on a password manager
 
 Also, I've privatized most of my repos, because they honestly weren't any good.
 
