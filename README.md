@@ -3,8 +3,6 @@
 📆 Started coding in may, 2025\
 🇦 Arch Linux user
 
-## 🔗 Links:
-https://guns.lol/nxrse
 
 ## ℹ️ Info
 
