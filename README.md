@@ -8,7 +8,7 @@
 
 Currently working on a password manager
 
-Also, I've privatized most of my repos, because they honestly weren't any good.
+Also, I've privatized all of my repos.
 
 
 
