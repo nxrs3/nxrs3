@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🐍🦀 Python & Rust programmer\
 📆 Started coding in may, 2025\
 🇦 Arch Linux user
