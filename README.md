@@ -6,7 +6,7 @@
 
 ## ℹ️ Info
 
-Currently working on a password manager
+Currently working on a minecraft launcher
 
 Also, I've privatized all of my repos.
 
