@@ -4,4 +4,4 @@
 
 I've privated all of my repos.
 
-<img src="terry davis and the feds.jpg" width="300">
+<img src="daddy_stallman.jpg" width="350">
